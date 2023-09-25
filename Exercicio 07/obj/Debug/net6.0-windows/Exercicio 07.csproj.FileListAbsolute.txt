@@ -1,0 +1,17 @@
+C:\Users\Desenvolvedor\Documents\Rodrigo\c#\Exercícios Classroom\Exercicio 07\obj\Debug\net6.0-windows\Exercicio 07.csproj.AssemblyReference.cache
+C:\Users\Desenvolvedor\Documents\Rodrigo\c#\Exercícios Classroom\Exercicio 07\obj\Debug\net6.0-windows\Exercicio_07.Form1.resources
+C:\Users\Desenvolvedor\Documents\Rodrigo\c#\Exercícios Classroom\Exercicio 07\obj\Debug\net6.0-windows\Exercicio 07.csproj.GenerateResource.cache
+C:\Users\Desenvolvedor\Documents\Rodrigo\c#\Exercícios Classroom\Exercicio 07\obj\Debug\net6.0-windows\Exercicio 07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desenvolvedor\Documents\Rodrigo\c#\Exercícios Classroom\Exercicio 07\obj\Debug\net6.0-windows\Exercicio 07.AssemblyInfoInputs.cache
+C:\Users\Desenvolvedor\Documents\Rodrigo\c#\Exercícios Classroom\Exercicio 07\obj\Debug\net6.0-windows\Exercicio 07.AssemblyInfo.cs
+C:\Users\Desenvolvedor\Documents\Rodrigo\c#\Exercícios Classroom\Exercicio 07\obj\Debug\net6.0-windows\Exercicio 07.csproj.CoreCompileInputs.cache
+C:\Users\Desenvolvedor\Documents\Rodrigo\c#\Exercícios Classroom\Exercicio 07\bin\Debug\net6.0-windows\Exercicio 07.exe
+C:\Users\Desenvolvedor\Documents\Rodrigo\c#\Exercícios Classroom\Exercicio 07\bin\Debug\net6.0-windows\Exercicio 07.deps.json
+C:\Users\Desenvolvedor\Documents\Rodrigo\c#\Exercícios Classroom\Exercicio 07\bin\Debug\net6.0-windows\Exercicio 07.runtimeconfig.json
+C:\Users\Desenvolvedor\Documents\Rodrigo\c#\Exercícios Classroom\Exercicio 07\bin\Debug\net6.0-windows\Exercicio 07.dll
+C:\Users\Desenvolvedor\Documents\Rodrigo\c#\Exercícios Classroom\Exercicio 07\bin\Debug\net6.0-windows\Exercicio 07.pdb
+C:\Users\Desenvolvedor\Documents\Rodrigo\c#\Exercícios Classroom\Exercicio 07\obj\Debug\net6.0-windows\Exercicio 07.dll
+C:\Users\Desenvolvedor\Documents\Rodrigo\c#\Exercícios Classroom\Exercicio 07\obj\Debug\net6.0-windows\refint\Exercicio 07.dll
+C:\Users\Desenvolvedor\Documents\Rodrigo\c#\Exercícios Classroom\Exercicio 07\obj\Debug\net6.0-windows\Exercicio 07.pdb
+C:\Users\Desenvolvedor\Documents\Rodrigo\c#\Exercícios Classroom\Exercicio 07\obj\Debug\net6.0-windows\Exercicio 07.genruntimeconfig.cache
+C:\Users\Desenvolvedor\Documents\Rodrigo\c#\Exercícios Classroom\Exercicio 07\obj\Debug\net6.0-windows\ref\Exercicio 07.dll
