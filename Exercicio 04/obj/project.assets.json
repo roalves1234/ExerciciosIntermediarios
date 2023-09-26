@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Desenvolvedor\\Documents\\Rodrigo\\c#\\Projeto\\Exercicio 04\\Exercicio 04.csproj",
+      "projectUniqueName": "C:\\Users\\Desenvolvedor\\Documents\\Rodrigo\\c#\\Projeto\\ExerciciosIntermediarios\\Exercicio 04\\Exercicio 04.csproj",
       "projectName": "Exercicio 04",
-      "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\Rodrigo\\c#\\Projeto\\Exercicio 04\\Exercicio 04.csproj",
+      "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\Rodrigo\\c#\\Projeto\\ExerciciosIntermediarios\\Exercicio 04\\Exercicio 04.csproj",
       "packagesPath": "C:\\Users\\Desenvolvedor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Desenvolvedor\\Documents\\Rodrigo\\c#\\Projeto\\Exercicio 04\\obj\\",
+      "outputPath": "C:\\Users\\Desenvolvedor\\Documents\\Rodrigo\\c#\\Projeto\\ExerciciosIntermediarios\\Exercicio 04\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Desenvolvedor\\AppData\\Roaming\\NuGet\\NuGet.Config",

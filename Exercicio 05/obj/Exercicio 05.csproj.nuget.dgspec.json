@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Desenvolvedor\\Documents\\Rodrigo\\c#\\Projeto\\Exercicio 05\\Exercicio 05.csproj": {}
+    "C:\\Users\\Desenvolvedor\\Documents\\Rodrigo\\c#\\Projeto\\ExerciciosIntermediarios\\Exercicio 05\\Exercicio 05.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Desenvolvedor\\Documents\\Rodrigo\\c#\\Projeto\\Exercicio 05\\Exercicio 05.csproj": {
+    "C:\\Users\\Desenvolvedor\\Documents\\Rodrigo\\c#\\Projeto\\ExerciciosIntermediarios\\Exercicio 05\\Exercicio 05.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Desenvolvedor\\Documents\\Rodrigo\\c#\\Projeto\\Exercicio 05\\Exercicio 05.csproj",
+        "projectUniqueName": "C:\\Users\\Desenvolvedor\\Documents\\Rodrigo\\c#\\Projeto\\ExerciciosIntermediarios\\Exercicio 05\\Exercicio 05.csproj",
         "projectName": "Exercicio 05",
-        "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\Rodrigo\\c#\\Projeto\\Exercicio 05\\Exercicio 05.csproj",
+        "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\Rodrigo\\c#\\Projeto\\ExerciciosIntermediarios\\Exercicio 05\\Exercicio 05.csproj",
         "packagesPath": "C:\\Users\\Desenvolvedor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Desenvolvedor\\Documents\\Rodrigo\\c#\\Projeto\\Exercicio 05\\obj\\",
+        "outputPath": "C:\\Users\\Desenvolvedor\\Documents\\Rodrigo\\c#\\Projeto\\ExerciciosIntermediarios\\Exercicio 05\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Desenvolvedor\\AppData\\Roaming\\NuGet\\NuGet.Config",
