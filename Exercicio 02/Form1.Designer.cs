@@ -43,7 +43,7 @@
             // 
             lblSegundoNumero.AutoSize = true;
             lblSegundoNumero.Font = new Font("Segoe UI", 18F, FontStyle.Bold, GraphicsUnit.Point);
-            lblSegundoNumero.Location = new Point(201, 227);
+            lblSegundoNumero.Location = new Point(140, 227);
             lblSegundoNumero.Name = "lblSegundoNumero";
             lblSegundoNumero.Size = new Size(28, 32);
             lblSegundoNumero.TabIndex = 13;
@@ -54,7 +54,7 @@
             // 
             lblPrimeiroNumero.AutoSize = true;
             lblPrimeiroNumero.Font = new Font("Segoe UI", 18F, FontStyle.Bold, GraphicsUnit.Point);
-            lblPrimeiroNumero.Location = new Point(201, 195);
+            lblPrimeiroNumero.Location = new Point(140, 261);
             lblPrimeiroNumero.Name = "lblPrimeiroNumero";
             lblPrimeiroNumero.Size = new Size(28, 32);
             lblPrimeiroNumero.TabIndex = 12;
@@ -67,9 +67,9 @@
             lblSegundo.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point);
             lblSegundo.Location = new Point(46, 239);
             lblSegundo.Name = "lblSegundo";
-            lblSegundo.Size = new Size(59, 15);
+            lblSegundo.Size = new Size(56, 15);
             lblSegundo.TabIndex = 11;
-            lblSegundo.Text = "Segundo:";
+            lblSegundo.Text = "Número:";
             // 
             // lblPrimeiro
             // 
@@ -77,9 +77,9 @@
             lblPrimeiro.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point);
             lblPrimeiro.Location = new Point(46, 209);
             lblPrimeiro.Name = "lblPrimeiro";
-            lblPrimeiro.Size = new Size(58, 15);
+            lblPrimeiro.Size = new Size(56, 15);
             lblPrimeiro.TabIndex = 10;
-            lblPrimeiro.Text = "Primeiro:";
+            lblPrimeiro.Text = "Número:";
             // 
             // button1
             // 
@@ -111,7 +111,7 @@
             // 
             lblTerceiroNumero.AutoSize = true;
             lblTerceiroNumero.Font = new Font("Segoe UI", 18F, FontStyle.Bold, GraphicsUnit.Point);
-            lblTerceiroNumero.Location = new Point(201, 257);
+            lblTerceiroNumero.Location = new Point(140, 195);
             lblTerceiroNumero.Name = "lblTerceiroNumero";
             lblTerceiroNumero.Size = new Size(28, 32);
             lblTerceiroNumero.TabIndex = 15;
@@ -126,7 +126,7 @@
             lblTerceiro.Name = "lblTerceiro";
             lblTerceiro.Size = new Size(56, 15);
             lblTerceiro.TabIndex = 14;
-            lblTerceiro.Text = "Terceiro:";
+            lblTerceiro.Text = "Número:";
             // 
             // Form1
             // 
