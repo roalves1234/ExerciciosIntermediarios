@@ -10,18 +10,11 @@ namespace Exercicio_07
         private void button1_Click(object sender, EventArgs e)
         {
 
-            int numero = 0;
-            int resultado = 0;
-            Boolean primeiraVez = true;
+            int resultado = 1;
 
             for (int i = int.Parse(edtNumero.Text); i >= 1; i--)
             {
-                if (primeiraVez)
-                    resultado = i;
-                else
-                    resultado = resultado * i;
-
-                primeiraVez = false;    
+                resultado *= i;
             }
 
             MessageBox.Show("O fatorial de " + edtNumero.Text + " é " + resultado);
